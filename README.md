@@ -26,3 +26,5 @@ cosine_sim.pkl
 recommender.py
 2. Run the Streamlit app:
 streamlit run app.py
+## note 
+if you follow the .ipynb the cosine_sim.pkl will be created which is essential to run the overall code
