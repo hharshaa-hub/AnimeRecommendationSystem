@@ -19,8 +19,10 @@ This is a content-based Anime Recommendation System built with TF-IDF and cosine
 - Google Colab (for data preprocessing)
 
 ## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+# before that make sure all the libraries are installed 
+1. Ensure the following files are present in the project directory:
+final_updated_anime_data_with_posters.csv
+cosine_sim.pkl
+recommender.py
+2. Run the Streamlit app:
+streamlit run app.py
